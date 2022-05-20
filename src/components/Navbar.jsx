@@ -1,6 +1,5 @@
 import React from "react";
 const Navbar = (props) => {
-  console.log(props.location);
   return (
     <section class="navbar">
       <div class="container">
