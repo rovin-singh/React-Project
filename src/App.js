@@ -7,11 +7,17 @@ import userInfo from "./data/userInfo";
 import offers from "./data/offers";
 import restaurants from "./data/restaurants.json";
 function App() {
+  const filters = {
+    1: "Cost High to Lost",
+    2: "Ratings",
+    3: "Delivery Time",
+    4: "Relevance"
+  };
   return (
     <div className="App">
       <Navbar {...userInfo} />
       <Offers offer={offers} />
-      <Filters />
+      <Filters filters={filters} />
       <Restaurants restaurants={restaurants} />
     </div>
   );

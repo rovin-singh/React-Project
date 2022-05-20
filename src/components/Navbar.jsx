@@ -1,9 +1,10 @@
 import React from "react";
+import logo from "../assets/logo.svg";
 const Navbar = (props) => {
   return (
     <section class="navbar">
       <div class="container">
-        <img class="logo" src="assets/logo.svg" alt="img" />
+        <img class="logo" src={logo} alt="img" />
         <div class="location">
           <span class="city">{props.location.city}</span>
           <span class="state">
