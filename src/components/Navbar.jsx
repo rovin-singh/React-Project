@@ -7,7 +7,9 @@ const Navbar = (props) => {
         <img class="logo" src="assets/logo.svg" alt="img" />
         <div class="location">
           <span class="city">{props.location.city}</span>
-          <span class="state">Maharashtra, India</span>
+          <span class="state">
+            {props.location.state}, {props.location.country}
+          </span>
         </div>
         <div class="navbar-options">
           <div class="navbar-option">
