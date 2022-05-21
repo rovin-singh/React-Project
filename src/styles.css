@@ -234,3 +234,8 @@ body {
   overflow: hidden;
   white-space: nowrap;
 }
+
+restaurant-option .underline {
+  background-color: blue;
+  color: white;
+}

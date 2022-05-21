@@ -12,7 +12,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 200,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -28,7 +28,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 100,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -44,7 +44,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 90,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -60,7 +60,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 1100,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -76,7 +76,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 1200,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -92,7 +92,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 999,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -108,7 +108,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 513,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -124,7 +124,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 1201,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -140,7 +140,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 725,
     "offer": ["20% off", "Use TRYNEW"]
   },
   {
@@ -156,7 +156,7 @@
     ],
     "rating": "4.3",
     "deliveryTimings": "33 MINS",
-    "costfortwo": "200",
+    "costfortwo": 410,
     "offer": ["20% off", "Use TRYNEW"]
   }
 ]
