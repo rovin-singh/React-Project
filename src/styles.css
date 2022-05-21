@@ -235,7 +235,9 @@ body {
   white-space: nowrap;
 }
 
-restaurant-option .underline {
+.restaurant-option.underline {
   background-color: blue;
   color: white;
+  padding: 5px;
+  border-radius: 5px;
 }
